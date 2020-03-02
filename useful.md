@@ -1,5 +1,6 @@
 **Web**
 - Highload статьи (https://ruhighload.com/)
+- Highload++ Junior записи (https://www.conferencecast.tv/ru/event-539-highload-junior-2017)
 - Паттерны и антипаттерны шардинга (http://highload.guide/blog/sharding-patterns-and-antipatterns.html)
 - CSS без стилей (http://ru.learnlayout.com/no-layout.html)
 
