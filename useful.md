@@ -9,6 +9,7 @@
 - What happens when... (https://github.com/alex/what-happens-when)
 - Optimization guide (http://optimization.guide/)
 - PageSpeed Insights (https://developers.google.com/speed/pagespeed/insights/)
+- Генератор цветовых схем (https://coolors.co)
 
 **Javascript**
 - Серия книг You Don't Know JS (https://github.com/getify/You-Dont-Know-JS/)
